@@ -2956,7 +2956,7 @@ Other default operations rules:
 ## C.defop: Default Operations
 
 By default, the language supply the default operations with their default semantics.
-However, a programmer can disalble or replace these defaults.
+However, a programmer can disable or replace these defaults.
 
 
 <a name="Rc-zero"></a>
